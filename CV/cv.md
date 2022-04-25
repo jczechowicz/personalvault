@@ -23,8 +23,8 @@ A philosophy student living in Warsaw. Fascinated by issues at the interface of 
 - completed certified courses „Elements of AI” and “Ethics of AI” on the basics of science and ethics on Artificial Intelligence organized by the University of Helsinki
 
 ##### Fresh C0DE: 
-  var isAnagram = function(test, original) {
-  var a = test.toLowerCase().split("").sort().join("")
+    var isAnagram = function(test, original) {
+    var a = test.toLowerCase().split("").sort().join("")
     var b = original.toLowerCase().split('').sort().join('');
     if (a == b) {
         return true
@@ -32,7 +32,7 @@ A philosophy student living in Warsaw. Fascinated by issues at the interface of 
     else {
         return false
     }
-};
+    };
 
 ##### Experience: 
 - since III 2021, freelance in Papaya.Rocks online magazine 
