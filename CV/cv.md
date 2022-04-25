@@ -9,10 +9,10 @@
 A philosophy student living in Warsaw. Fascinated by issues at the interface of the humanities and technology. Future programmer persistently learning: mainly Python/Web, but since some time I am also learning Java.
 
 ##### Skills: 
-– Python: good
-– HTML, CSS & JS: good
-– Java: basic
-– Git: basic
+- Python: good
+- HTML, CSS & JS: good
+- Java: basic
+- Git: basic
 - computer literacy; including IDE software (e.g.: PyCharm, IntelliJ IDEA or Atom)
 - practical knowledge of Microsoft Excel
 
@@ -26,8 +26,8 @@ A philosophy student living in Warsaw. Fascinated by issues at the interface of 
 WIP
 
 ##### Experience: 
-– since III 2021, freelance in Papaya.Rocks online magazine 
-– VII 2021, internship in the editorial office
+- since III 2021, freelance in Papaya.Rocks online magazine 
+- VII 2021, internship in the editorial office
 
 - XII 2020 – XII 2021, participation in the bootcamp "Studiuje.IT" introducing the basics of Computer Science and Programming (including topics such as Databases, Software Engineering, Project management in IT etc.)
 - X – XII 2021, participation in the “Akademia Liderów Zmiany Cyfrowej” (“Digital Transformation Leaders Academy”) workshops prepared by University of Warsaw together with Salesforce and Cloudity
