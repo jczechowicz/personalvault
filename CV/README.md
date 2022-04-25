@@ -1,1 +1,1 @@
-https://jczechowicz.github.io/personalvault/cv/index.html
+https://jczechowicz.github.io/personalvault/CV/index.html
