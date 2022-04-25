@@ -31,7 +31,7 @@ WIP
 
 - XII 2020 – XII 2021, participation in the bootcamp "Studiuje.IT" introducing the basics of Computer Science and Programming (including topics such as Databases, Software Engineering, Project management in IT etc.)
 - X – XII 2021, participation in the “Akademia Liderów Zmiany Cyfrowej” (“Digital Transformation Leaders Academy”) workshops prepared by University of Warsaw together with Salesforce and Cloudity
-– from III 2022 – now, participation in the The Rolling Scopes School “JavaScript/Front-End Mentoring Program”
+- from III 2022 – now, participation in the The Rolling Scopes School “JavaScript/Front-End Mentoring Program”
 
 ##### Education: 
 - since X 2019, student at the Faculty of Philosophy of the University of Warsaw (III-year, Bachelor's degree) 
