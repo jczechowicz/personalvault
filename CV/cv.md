@@ -1,11 +1,11 @@
 # Curriculum Vitae 
 ## Jan Jakub Czechowicz
 
-###### Contact Info: 
+##### Contact Info: 
 - e-mail: jczechowicz@duck.com
 - Discord: Art0fDude#3569 
 
-##### Summary:  
+#### Summary:  
 A philosophy student living in Warsaw. Fascinated by issues at the interface of the humanities and technology. Future programmer persistently learning and supporter of collective labour.
 
 ##### Skills: 
