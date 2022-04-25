@@ -6,7 +6,7 @@
 - Discord: Art0fDude#3569 
 
 ##### Summary:  
-A philosophy student living in Warsaw. Fascinated by issues at the interface of the humanities and technology. Future programmer persistently learning: mainly Python/Web, but since some time I am also learning Java.
+A philosophy student living in Warsaw. Fascinated by issues at the interface of the humanities and technology. Future programmer persistently learning and supporter of collective labour.
 
 ##### Skills: 
 - Python: good
@@ -14,7 +14,7 @@ A philosophy student living in Warsaw. Fascinated by issues at the interface of 
 - Java: basic
 - Git: basic
 - computer literacy; including IDE software (e.g.: PyCharm, IntelliJ IDEA or Atom)
-- practical knowledge of Microsoft Excel
+- practical knowledge of MS Office
 
 ##### Licenses & Certificates:
 - University of Michigan certificate in Python 3 programming, obtained after completing the Specialization course “Python for Everybody”
@@ -37,7 +37,7 @@ WIP
 - since X 2019, student at the Faculty of Philosophy of the University of Warsaw (III-year, Bachelor's degree) 
 - from II to VII 2022, Erasmus scholarship holder at KU Leuven Institute of Philosophy, Belgium
 
-##### ENG🇬🇧: 
+##### Languages: 
 - Advanced - C1 (confirmed by the Univeristy of Warsaw Certificate of Language Proficiency)
 - German: Intermediate – B1
 - Polish: native language     
