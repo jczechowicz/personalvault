@@ -1,5 +1,4 @@
 # Curriculum Vitae 
-
 ## Jan Jakub Czechowicz
 
 #### Summary:  
@@ -24,7 +23,16 @@ A philosophy student living in Warsaw. Fascinated by issues at the interface of 
 - completed certified courses „Elements of AI” and “Ethics of AI” on the basics of science and ethics on Artificial Intelligence organized by the University of Helsinki
 
 ##### Fresh C0DE: 
-WIP
+  var isAnagram = function(test, original) {
+  var a = test.toLowerCase().split("").sort().join("")
+    var b = original.toLowerCase().split('').sort().join('');
+    if (a == b) {
+        return true
+    }
+    else {
+        return false
+    }
+};
 
 ##### Experience: 
 - since III 2021, freelance in Papaya.Rocks online magazine 
